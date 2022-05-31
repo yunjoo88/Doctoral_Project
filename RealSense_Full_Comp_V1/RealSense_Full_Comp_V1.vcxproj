@@ -30,6 +30,7 @@
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v140</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -71,12 +72,14 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin$(Configuration)\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\$(Configuration)\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -89,10 +92,12 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\CustomLibraries\boost_1_65_1;C:\CustomLibraries\dxl_sdk_win32_v2_02\import;C:\Users\User\Desktop\Hand Tracking V2\RealSense_Full_Comp_V1\include\kinova;C:\NuitrackSDK\Examples\nuitrack_gl_sample\.;C:\NuitrackSDK\Examples\nuitrack_gl_sample\..\..\Nuitrack\include;C:\NuitrackSDK\Examples\nuitrack_gl_sample\..\..\Nuitrack\include\middleware;C:\freeglut-3.0.0\GL;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\CustomLibraries\boost_1_65_1\lib32-msvc-14.0;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -117,14 +122,20 @@
       <Optimization>MaxSpeed</Optimization>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
-      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_WIN32_DCOM;_WIN32_WINNT=0x0A00;WIN32;NDEBUG;_CONSOLE;_WINDOWS;_VARIADIC_MAX=10;WINVER=0x0500;HAVE_CONFIG_H;NOMINMAX;_GLIBCXX_USE_CXX11_ABI=0;CMAKE_INTDIR="Release";_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\CustomLibraries\boost_1_65_1;C:\CustomLibraries\dxl_sdk_win32_v2_02\import;C:\Users\User\Desktop\Hand Tracking V2\RealSense_Full_Comp_V1\include\kinova;C:\NuitrackSDK\Examples\nuitrack_gl_sample\.;C:\NuitrackSDK\Examples\nuitrack_gl_sample\..\..\Nuitrack\include;C:\NuitrackSDK\Examples\nuitrack_gl_sample\..\..\Nuitrack\include\middleware;C:\freeglut-3.0.0\GL;C:\Program Files (x86)\royale\3.23.0.86\include;C:\Program Files\royale\3.19.0.60\include\royaleCAPI;C:\opencv-4.1.0\include\;C:\Program Files (x86)\royale\3.23.0.86\samples\inc;C:\opencv-4.1.0\x86;C:\opencv-4.1.0\modules\core\include;C:\opencv-4.1.0\modules\highgui\include;C:\opencv-4.1.0\modules\calib3d\include;C:\opencv-4.1.0\modules\imgproc\include;C:\opencv-4.1.0\modules\dnn\include;C:\opencv-4.1.0\modules\flann\include;C:\opencv-4.1.0\modules\imgcodecs\include;C:\opencv-4.1.0\modules\ml\include;C:\opencv-4.1.0\modules\objdetect\include;C:\opencv-4.1.0\modules\photo\include;C:\opencv-4.1.0\modules\stitching\include;C:\opencv-4.1.0\modules\video\include;C:\opencv-4.1.0\modules\videoio\include;C:\opencv-4.1.0\modules\features2d\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\CustomLibraries\boost_1_65_1\lib32-msvc-14.0;C:\CustomLibraries\dxl_sdk_win32_v2_02\import;C:\NuitrackSDK/Examples/nuitrack_gl_sample/../../Nuitrack/lib/win32;C:\NuitrackSDK/Examples/nuitrack_gl_sample/../../Nuitrack/lib/win32/$(Configuration);C:\Program Files %28x86%29\Nuitrack\nuitrack\nuitrack\middleware;C:\freeglut-3.0.0\GL;C:/Program Files (x86)/royale/3.23.0.86/lib;C:/Program Files (x86)/royale/3.23.0.86/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Ws2_32.lib;dynamixel2_win32.lib;royale.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_dnn410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_gapi410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_ml410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_objdetect410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_photo410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_stitching410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_video410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_calib3d410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_features2d410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_flann410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_highgui410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_videoio410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_imgcodecs410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_imgproc410.lib;C:\opencv-4.1.0\x86\lib\Release\opencv_core410.lib;glut32.lib;glu32.lib;opengl32.lib;nuitrack.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -146,6 +157,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\CustomLibraries\dxl_sdk_win32_v2_02\example\vc++\DXL_Monitor\FunctionDefine.cpp" />
+    <ClCompile Include="AidedGraspingTest.cpp" />
+    <ClCompile Include="AidedGraspingTest2.cpp" />
+    <ClCompile Include="Backup.cpp" />
+    <ClCompile Include="FingerImpedanceTest.cpp" />
+    <ClCompile Include="HandTrackingTest.cpp" />
+    <ClCompile Include="HandTrackingTest_2.cpp" />
+    <ClCompile Include="KinovaZeroGravity.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NuitrackGLSample.cpp" />
+    <ClCompile Include="Passivity_Test.cpp" />
+    <ClCompile Include="Playback2.cpp" />
+    <ClCompile Include="PlayBackTest.cpp" />
+    <ClCompile Include="state_machine_main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

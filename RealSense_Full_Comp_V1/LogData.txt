@@ -1,0 +1,124 @@
+Saved Data in ID 0
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 619, 385
+RobotHandCurrent : 30, 49
+RobotArmPos : 0.0160006, -0.59733, 0.302733, 1.59087, 0.0209423, 0.544816
+RobotArmTorque : 0.00563962, -0.0588132, 0, -0.0128906, 0.00241698, 0, -0.00644528
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 1
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 50
+RobotArmPos : 0.0128741, -0.597405, 0.302733, 1.59087, 0.0157096, 0.544921
+RobotArmTorque : -0.00161132, -0.0588132, -0.00322264, -0.0161132, 0.00322264, 0, -0.00725094
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 2
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 384
+RobotHandCurrent : 30, 49
+RobotArmPos : -0.0348807, -0.596525, 0.302733, 1.59091, -0.0642275, 0.546527
+RobotArmTorque : -0.0241698, -0.0580075, -0.00080566, -0.0217528, 0.0080566, 0, -0.00725094
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 3
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 50
+RobotArmPos : -0.0348807, -0.596525, 0.302733, 1.59091, -0.0642275, 0.546527
+RobotArmTorque : -0.00322264, -0.0596188, 0, -0.0128906, 0, 0, -0.00725094
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 4
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 50
+RobotArmPos : -0.0369077, -0.596395, 0.302904, 1.59061, -0.0677968, 0.543983
+RobotArmTorque : -0.00322264, -0.0604245, -0.00966792, -0.0080566, 0.0040283, 0, -0.00483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 5
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 49
+RobotArmPos : -0.0589374, -0.594517, 0.305113, 1.58676, -0.106653, 0.516119
+RobotArmTorque : -0.00241698, -0.0580075, -0.0153075, -0.0136962, 0.0040283, 0, -0.00322264
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 6
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 50
+RobotArmPos : -0.0197822, -0.597266, 0.301625, 1.59284, -0.0376634, 0.565402
+RobotArmTorque : -0.00080566, -0.0539792, 0.0104736, -0.0112792, 0.0040283, 0, -0.00644528
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 7
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 49
+RobotArmPos : -0.0197822, -0.597266, 0.301625, 1.59284, -0.0376634, 0.565402
+RobotArmTorque : 0, -0.0620358, 0.00563962, -0.0104736, 0, 0, -0.00483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 8
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 50
+RobotArmPos : -0.0197822, -0.597266, 0.301625, 1.59284, -0.0376634, 0.565402
+RobotArmTorque : -0.00161132, -0.0620358, 0.00322264, -0.00886226, 0.0040283, 0, -0.0080566
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 9
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 49
+RobotArmPos : -0.0197822, -0.597266, 0.301625, 1.59284, -0.0376634, 0.565402
+RobotArmTorque : 0, -0.0596188, 0.0040283, -0.0104736, 0, 0, -0.00563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 10
+State : 0
+HumanHandPos : 0.02, -0.6, 0.3
+Gradient : 0, 0, 0
+RobotHandPos : 620, 385
+RobotHandCurrent : 30, 49
+RobotArmPos : -0.0197822, -0.597266, 0.301625, 1.59284, -0.0376634, 0.565402
+RobotArmTorque : -0.00161132, -0.0515622, 0.00161132, -0.0104736, 0.00161132, 0, -0.0136962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+GestData : 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 11
+State : 0
+HumanHandPos : 0.02, -0.6, 0.

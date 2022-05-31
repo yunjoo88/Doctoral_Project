@@ -1,0 +1,622 @@
+Saved Data in ID 0
+HumanHandPos : -0.2, 0.66, 1.5
+Gradinet : 0, 0, 0
+RobotHandPos : 474, 310
+RobotHandCurrnet : 31, 48
+RobotAmrPos : -0.0207749, -0.597232, 0.301555, 1.59295, -0.0406106, 0.546061
+RobotArmTorque : -0.00725094, -0.0741207, 0.00080566, -0.0298094, 0.0120849, 0, -0.00725094
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 1
+HumanHandPos : 0.57746, -0.133736, 0.395333
+Gradinet : 0, 0, 0
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : -0.0207749, -0.597232, 0.301555, 1.59295, -0.0406106, 0.546061
+RobotArmTorque : -0.00644528, -0.0733151, 0.00241698, -0.0241698, 0.0112792, 0, -0.00644528
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 2
+HumanHandPos : -0.2, 0.66, 1.5
+Gradinet : 0, 0, 0
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : -0.0207749, -0.597232, 0.301555, 1.59295, -0.0406106, 0.546061
+RobotArmTorque : -0.00563962, -0.0733151, 0.00483396, -0.0290038, 0.0120849, 0, -0.00563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 3
+HumanHandPos : -0.2, 0.66, 1.5
+Gradinet : 0, 0, 0
+RobotHandPos : 474, 310
+RobotHandCurrnet : 28, 49
+RobotAmrPos : -0.0207749, -0.597232, 0.301555, 1.59295, -0.0406106, 0.546061
+RobotArmTorque : -0.00644528, -0.0741207, 0.00161132, -0.0290038, 0.0120849, 0, -0.00322264
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 4
+HumanHandPos : -0.2, 0.66, 1.5
+Gradinet : 0, 0, 0
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 48
+RobotAmrPos : -0.0207749, -0.597232, 0.301555, 1.59295, -0.0406106, 0.546061
+RobotArmTorque : -0.00563962, -0.0741207, 0.00322264, -0.0281981, 0.0145019, 0, -0.00563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 5
+HumanHandPos : -0.0929026, -0.0929026, 0.322895
+Gradinet : -0.0275484, 0.183352, 0.00708289
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : -0.0225876, -0.570739, 0.303976, 1.59287, -0.0406372, 0.546149
+RobotArmTorque : 0.101513, -0.277147, -0.249755, 0.0596188, -0.0201415, -0.20786, 0.0443113
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 6
+HumanHandPos : -0.120076, -0.120076, 0.308991
+Gradinet : -0.0301519, 0.138634, 0.000741279
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 51
+RobotAmrPos : -0.0387936, -0.491738, 0.307131, 1.59262, -0.0408594, 0.546527
+RobotArmTorque : 0, -0.0596188, -0.0700924, 0.0265868, -0.0370604, -0.228807, 0.00966792
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 7
+HumanHandPos : -0.0574852, -0.0574852, 0.306672
+Gradinet : 0.0118469, 0.152603, -0.010088
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : -0.0845497, -0.468314, 0.329466, 1.59261, -0.0401863, 0.546147
+RobotArmTorque : -0.0572019, -0.266673, -0.0692868, 0, -0.0306151, -0.0153075, 0.0120849
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 8
+HumanHandPos : -0.0574852, -0.0574852, 0.306672
+Gradinet : 0.0206859, 0.144262, -0.016679
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : -0.113525, -0.443484, 0.35182, 1.59264, -0.0402119, 0.546101
+RobotArmTorque : -0.0515622, -0.215917, -0.0660641, 0.00161132, -0.0217528, 0.00161132, 0.0153075
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 9
+HumanHandPos : -0.0574852, -0.0574852, 0.306672
+Gradinet : 0.0321364, 0.132486, -0.0204933
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : -0.14137, -0.416167, 0.36241, 1.59273, -0.0401286, 0.546107
+RobotArmTorque : -0.120043, 0, -0.0523679, 0, -0.0185302, -0.186913, 0.00886226
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 10
+HumanHandPos : -0.0574852, -0.0574852, 0.306672
+Gradinet : 0.0415674, 0.121004, -0.020438
+RobotHandPos : 474, 311
+RobotHandCurrnet : 28, 50
+RobotAmrPos : -0.171532, -0.382294, 0.361541, 1.59288, -0.0399322, 0.546315
+RobotArmTorque : -0.108764, -0.00322264, -0.0418943, 0, -0.0298094, -0.18933, -0.00080566
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 11
+HumanHandPos : -0.0574852, -0.0574852, 0.306672
+Gradinet : 0.0526747, 1.4296, -0.0197539
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : -0.197406, -0.33471, 0.359665, 1.59281, -0.0399463, 0.54656
+RobotArmTorque : -0.155492, -0.00966792, -0.0531736, 0.00322264, -0.0547849, -0.193358, -0.0201415
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 12
+HumanHandPos : -0.103933, -0.103933, 0.233063
+Gradinet : 0.0337542, 0.0515251, -0.0548199
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : -0.203764, -0.262201, 0.372953, 1.59306, -0.0393193, 0.547347
+RobotArmTorque : -0.0845943, -0.240087, -0.0910396, 0, -0.0668698, -0.120043, -0.00886226
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 13
+HumanHandPos : 0.146069, -0.31, 0.251639
+Gradinet : 0.129264, -0.0307037, -0.0452344
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : -0.190845, -0.225003, 0.386504, 1.59354, -0.0388173, 0.547366
+RobotArmTorque : -0.0177245, -0.0636471, -0.0217528, 0.00080566, -0.00886226, -0.0862056, -0.0145019
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 14
+HumanHandPos : 0.130483, -0.31, 0.247377
+Gradinet : 0.115285, -0.0334464, -0.0553777
+RobotHandPos : 474, 310
+RobotHandCurrnet : 31, 49
+RobotAmrPos : -0.182304, -0.219561, 0.395703, 1.5936, -0.0386807, 0.547414
+RobotArmTorque : 0.0459226, -0.160326, -0.0394773, 0.00161132, 0, 0.00966792, 0.0338377
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 15
+HumanHandPos : 0.130483, -0.31, 0.247377
+Gradinet : 0.110501, -0.0323041, -0.0611615
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : -0.168216, -0.222711, 0.413194, 1.59358, -0.0386144, 0.547516
+RobotArmTorque : 0.0515622, -0.179662, 0.0491453, 0, 0.0515622, 0.0483396, 0.0507566
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 16
+HumanHandPos : 0.00166914, -0.31, 0.45369
+Gradinet : 0.051696, -0.0298228, 0.0141541
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : -0.150239, -0.22883, 0.431736, 1.59373, -0.0389407, 0.547374
+RobotArmTorque : -0.0169189, -0.107958, 0.166772, 0, 0.0507566, 0.035449, 0.0394773
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 17
+HumanHandPos : 0.0163656, -0.31, 0.44359
+Gradinet : 0.0426172, -0.0176337, -0.0055902
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : -0.118103, -0.246162, 0.456792, 1.59382, -0.0392044, 0.547162
+RobotArmTorque : -0.0273924, -0.0531736, 0.236864, -0.00563962, 0.080566, 0.0499509, 0.0467283
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 18
+HumanHandPos : 0.0163656, -0.31, 0.44359
+Gradinet : 0.0253361, -2.33576e-05, -0.0105104
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : -0.0706056, -0.266959, 0.477196, 1.59459, -0.0378907, 0.546559
+RobotArmTorque : -0.0257811, -0.0104736, 0.104736, -0.00886226, 0.0773434, 0.0233641, 0.0483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 19
+HumanHandPos : -0.0392909, -0.0392909, 0.417488
+Gradinet : -0.0114889, 0.081783, -0.0244354
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : -0.0153625, -0.272348, 0.485576, 1.59451, -0.0383022, 0.546682
+RobotArmTorque : 0.0136962, -0.0193358, 0.00080566, -0.0177245, -0.0209472, 0.037866, 0.107958
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 20
+HumanHandPos : -0.0385875, -0.0385875, 0.418046
+Gradinet : -0.00774453, 0.056765, -0.0204414
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : -0.0168546, -0.199401, 0.475807, 1.59486, -0.0384288, 0.547105
+RobotArmTorque : 0.0249755, 0, -0.277147, -0.0193358, -0.0257811, -0.0555905, 0.0555905
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 21
+HumanHandPos : 0.0170469, 0.0170469, 0.39518
+Gradinet : 0.0163061, 0.0473256, -0.0178604
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : -0.0265861, -0.128612, 0.446903, 1.59526, -0.0384618, 0.547636
+RobotArmTorque : -0.00241698, 0, -0.169189, -0.174828, -0.00725094, -0.116015, 0.0563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 22
+HumanHandPos : 0.159897, -0.31, 0.235249
+Gradinet : 0.0578955, -0.0762976, -0.0729675
+RobotHandPos : 474, 311
+RobotHandCurrnet : 29, 50
+RobotAmrPos : -0.00301425, -0.101488, 0.434179, 1.59573, -0.038138, 0.547719
+RobotArmTorque : -0.0676754, 0, 0.082983, 0, 0.0684811, -0.035449, 0.0241698
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 23
+HumanHandPos : 0.159897, -0.31, 0.235249
+Gradinet : 0.0412174, -0.0693951, -0.0727699
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.0462028, -0.119754, 0.434453, 1.59623, -0.0386188, 0.547474
+RobotArmTorque : -0.0974849, 0, 0.0845943, -0.00241698, 0.101513, -0.0394773, 0.037866
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 24
+HumanHandPos : 0.159897, -0.31, 0.235249
+Gradinet : 0.0186373, -0.0585142, -0.0658711
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 48
+RobotAmrPos : 0.101988, -0.144203, 0.420706, 1.59674, -0.0389852, 0.547309
+RobotArmTorque : -0.0854, 0, 0.0652585, 0, 0.103124, -0.0443113, 0.0588132
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 25
+HumanHandPos : 0.159192, -0.31, 0.461658
+Gradinet : 0.00268967, -0.0390584, 0.0209445
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.149251, -0.191596, 0.405109, 1.59729, -0.0390464, 0.547329
+RobotArmTorque : -0.134545, 0.113598, 0.111181, -0.00161132, 0.186107, -0.00966792, 0.00563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 26
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.0139388, 0.00602986, -0.00392803
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.180584, -0.259177, 0.416895, 1.59761, -0.0389691, 0.547376
+RobotArmTorque : -0.233641, 0, -0.00644528, -0.16516, 0.0773434, -0.080566, 0.169189
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 27
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.0100772, -0.0104712, 0.00307912
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.248354, -0.279484, 0.396525, 1.59823, -0.0389293, 0.547292
+RobotArmTorque : -0.0249755, 0, 0.0080566, -0.120849, 0.0459226, 0, 0.078149
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 28
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00187569, -0.0239817, -0.00110583
+RobotHandPos : 474, 310
+RobotHandCurrnet : 31, 49
+RobotAmrPos : 0.24607, -0.269504, 0.400198, 1.59827, -0.03896, 0.546899
+RobotArmTorque : 0.0499509, 0.299706, -0.0572019, 0.0201415, -0.0290038, 0, -0.0507566
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 29
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00569052, -0.0238476, 0.00129887
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.239913, -0.26523, 0.401013, 1.59835, -0.0392256, 0.546546
+RobotArmTorque : -0.00725094, 0, 0.00161132, -0.0870113, 0.0314207, 0, 0.0499509
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 30
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00129701, -0.0233341, 0.000307679
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.249603, -0.265209, 0.398512, 1.5985, -0.0394677, 0.546194
+RobotArmTorque : 0.00161132, 0.210277, 0, 0.00725094, -0.0040283, 0, -0.0257811
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 31
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00238696, 0.0496145, -0.000579965
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.229774, -0.265911, 0.40339, 1.59852, -0.0394583, 0.546196
+RobotArmTorque : 0, 0.185302, 0, 0, 0, 0.00322264, -0.00483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 32
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00222862, 0.052571, 0.000534534
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 48
+RobotAmrPos : 0.244044, -0.267309, 0.400019, 1.59854, -0.0396216, 0.546531
+RobotArmTorque : 0, 0.0346434, 0, -0.0467283, 0.0249755, 0, 0.0193358
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 33
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00091728, -0.0259696, -0.000224161
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 51
+RobotAmrPos : 0.239821, -0.259354, 0.401016, 1.59855, -0.039611, 0.546535
+RobotArmTorque : 0.0161132, 0.198192, -0.0443113, 0, -0.0128906, -0.00080566, -0.0128906
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 34
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00318555, 0.0640442, 0.000784945
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.250555, -0.262177, 0.398399, 1.59869, -0.0399057, 0.547184
+RobotArmTorque : -0.00563962, 0.0394773, 0.00241698, -0.0386717, 0.0249755, 0, 0.0169189
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 35
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000118369, 0.0418834, -9.20296e-06
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.243896, -0.25994, 0.399935, 1.59883, -0.013442, 0.546083
+RobotArmTorque : 0.102319, 0.247338, -0.0306151, 0.0193358, -0.0161132, 0, -0.0435056
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 36
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000883764, -0.0343468, 0.000422585
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 51
+RobotAmrPos : 0.242952, -0.196416, 0.399665, 1.59928, 0.10866, 0.542728
+RobotArmTorque : 0.00644528, 0.172411, -0.0120849, -0.00161132, 0, -0.00322264, -0.00644528
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 37
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000633341, 0.0428544, 0.000399292
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.241961, -0.260913, 0.399655, 1.59936, -0.00929405, 0.54616
+RobotArmTorque : -0.208666, 0, 0.0507566, -0.124877, 0.0886226, 0.10393, 0.0733151
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 38
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000618982, 0.0152092, 0.000593281
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.241658, -0.375086, 0.399231, 1.60075, -0.183215, 0.551527
+RobotArmTorque : -0.149853, 0.0298094, 0.0040283, -0.163549, 0.0467283, 0.082983, 0.0668698
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 39
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -7.58767e-05, 0.0148887, 0.000411499
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.240182, -0.376091, 0.39929, 1.60101, -0.198971, 0.552119
+RobotArmTorque : 0.112792, 0.21914, -0.045117, 0.0410887, -0.0499509, 0, -0.0314207
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 40
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -3.68416e-05, 0.0256127, 0.000322485
+RobotHandPos : 475, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.239685, -0.298522, 0.40021, 1.60129, -0.198975, 0.552201
+RobotArmTorque : 0.0765377, 0.219945, -0.0684811, 0.00563962, -0.0459226, -0.00161132, -0.0249755
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 41
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 5.82814e-05, 0.0976696, -0.000130844
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.238755, -0.255014, 0.40086, 1.60369, -0.203975, 0.553729
+RobotArmTorque : 0.00644528, 0.200609, -0.0169189, 0, -0.00080566, 0, -0.00563962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 42
+HumanHandPos : 0.239584, -0.0560178, 0.401127
+Gradinet : 0.00197703, 5.88794, 0.00280697
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.237715, -0.288295, 0.39872, 1.60348, -0.203416, 0.553562
+RobotArmTorque : -0.0580075, 0.0290038, 0.0177245, 0.00322264, 0.0483396, 0.0612302, 0.0185302
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 43
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00109265, 0.0120633, -0.00156119
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.238574, -0.271011, 0.399822, 1.60346, -0.203522, 0.553678
+RobotArmTorque : 0.0185302, 0.254589, -0.0281981, -0.0604245, -0.00563962, 0, -0.0128906
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 44
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000509244, -0.0191689, -0.000667322
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 51
+RobotAmrPos : 0.242103, -0.262268, 0.404746, 1.60296, -0.20235, 0.553063
+RobotArmTorque : -0.0427, 0.132128, 0.00563962, -0.00644528, 0.0563962, 0.00080566, 0
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 45
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.00227832, 3.81906, -0.00315047
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 48
+RobotAmrPos : 0.241782, -0.333598, 0.40434, 1.60427, -0.316026, 0.557037
+RobotArmTorque : -0.0644528, 0.0692868, 0.0153075, -0.105541, 0.0298094, 0.114404, 0.0547849
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 46
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000883067, 0.0192311, -0.00133026
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.241814, -0.308424, 0.404464, 1.60454, -0.328516, 0.557561
+RobotArmTorque : 0.113598, 0.200609, -0.0652585, 0.0161132, -0.0580075, 0, -0.0330321
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 47
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00041734, -0.0180292, 0.000485837
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : 0.238962, -0.25274, 0.400905, 1.60636, -0.332701, 0.55921
+RobotArmTorque : 0.0080566, 0.0725094, -0.0306151, 0.0040283, -0.00483396, 0, -0.0104736
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 48
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000166523, 120.607, -0.000272167
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.238983, -0.278413, 0.400154, 1.60608, -0.33228, 0.558934
+RobotArmTorque : -0.0572019, 0.0708981, 0.0185302, -0.00563962, 0.0394773, 0.0346434, 0.0136962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 49
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 7.83801e-06, 0.00133869, -9.28521e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 51
+RobotAmrPos : 0.240106, -0.270005, 0.402352, 1.60663, -0.332704, 0.559396
+RobotArmTorque : 0.0604245, 0.199804, -0.0386717, 0, -0.0201415, 0.00241698, -0.0153075
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 50
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 6.09219e-05, -0.0206965, 0.00030899
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.239251, -0.261081, 0.399562, 1.60725, -0.376772, 0.561131
+RobotArmTorque : -0.0708981, 0.0523679, 0.0217528, -0.0596188, 0.0290038, 0.00483396, 0.035449
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 51
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000196886, 0.0303839, 0.00062083
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.239064, -0.345754, 0.399383, 1.61009, -0.512741, 0.567013
+RobotArmTorque : -0.137768, 0.0878169, 0.0322264, -0.118432, 0.0370604, 0.136962, 0.0765377
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 52
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00026319, 0.0463615, 0.000617468
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.238714, -0.4609, 0.399064, 1.61418, -0.638612, 0.573758
+RobotArmTorque : -0.132934, 0.397996, 0, -0.123266, 0.0257811, 0.114404, 0.0894283
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 53
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000435674, 0.0883824, 0.000874984
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.238357, -0.557237, 0.39865, 1.61754, -0.711968, 0.578068
+RobotArmTorque : -0.045117, 0.505954, -0.0708981, -0.0193358, 0.00483396, 0.0185302, 0.0459226
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 54
+HumanHandPos : 0.239584, -0.0560178, 0.401127
+Gradinet : 0.000454801, 0.0707326, 0.000713503
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.238304, -0.523862, 0.39903, 1.6178, -0.715616, 0.57833
+RobotArmTorque : 0.0741207, 0.075732, 0.0306151, 0.180468, -0.0733151, 0.0136962, -0.0491453
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 55
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000376147, 0.0432108, 0.000507772
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.238445, -0.443751, 0.399574, 1.61826, -0.715821, 0.578505
+RobotArmTorque : 0.0862056, 0.0797603, 0.0104736, 0.127294, -0.0580075, 0.0974849, -0.0418943
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 56
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.00011124, 0.0197123, 0.000103676
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.238942, -0.363556, 0.400464, 1.61838, -0.715787, 0.578807
+RobotArmTorque : 0.0652585, 0.078149, 0, 0.0676754, -0.0588132, 0.0281981, -0.0346434
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 57
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000193274, -0.0157115, 0.000151134
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.239029, -0.286146, 0.400669, 1.61856, -0.715853, 0.578972
+RobotArmTorque : 0.080566, 0.0886226, -0.0394773, 0.0241698, -0.045117, -0.0153075, -0.0201415
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 58
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -7.2217e-05, -0.020473, -6.37054e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 50
+RobotAmrPos : 0.239854, -0.258455, 0.401367, 1.61757, -0.716365, 0.578668
+RobotArmTorque : 0, 0.0974849, 0, 0, 0, 0.00080566, -0.00080566
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 59
+HumanHandPos : 0.239584, -0.0560178, 0.401127
+Gradinet : -0.000246763, 0.0285003, -0.000117469
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : 0.239753, -0.272001, 0.401262, 1.61745, -0.716522, 0.578667
+RobotArmTorque : 0.0161132, 0.116015, -0.0104736, 0, -0.0306151, 0.00483396, 0
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 60
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 1.86682e-05, 0.226727, 7.67708e-06
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.239774, -0.261318, 0.401234, 1.61729, -0.716566, 0.57847
+RobotArmTorque : -0.0725094, 0.0926509, 0.00241698, 0, 0.0257811, 0.0225585, 0.00483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 61
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 5.4425e-05, 0.207493, 2.5177e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 29, 49
+RobotAmrPos : 0.239163, -0.282834, 0.400926, 1.6172, -0.716845, 0.578367
+RobotArmTorque : 0, 0.113598, -0.0040283, 0, -0.0080566, 0.0233641, 0
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 62
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -2.29478e-06, -0.0190749, 1.86086e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 51
+RobotAmrPos : 0.239367, -0.260989, 0.400978, 1.61726, -0.716626, 0.578374
+RobotArmTorque : 0, 0.0797603, 0, 0.00161132, 0, 0.00241698, 0
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 63
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.0010246, -0.0136886, -0.000333536
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.237831, -0.29157, 0.401644, 1.6173, -0.716615, 0.578402
+RobotArmTorque : -0.00563962, 0.178857, -0.00644528, -0.00080566, 0.00483396, 0.0322264, 0
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 64
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000206888, -0.0294408, 5.43952e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.239461, -0.252822, 0.401138, 1.61679, -0.717009, 0.577977
+RobotArmTorque : 0.0692868, 0.0741207, -0.0281981, 0.0136962, -0.040283, -0.00080566, -0.0161132
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 65
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -2.08735e-05, -0.0268571, 8.22544e-06
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 49
+RobotAmrPos : 0.240321, -0.247885, 0.400844, 1.61677, -0.714591, 0.577876
+RobotArmTorque : 0.00483396, 0.0652585, -0.0128906, 0.00886226, 0, 0.00241698, -0.00161132
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 66
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -0.000159794, -0.0153825, 7.1156e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.240304, -0.232765, 0.400834, 1.61555, -0.682581, 0.575977
+RobotArmTorque : 0.00563962, 0.0733151, -0.0193358, 0.00725094, -0.00886226, 0, -0.0136962
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 67
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : 0.000244379, 0.0144133, -0.00010252
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 50
+RobotAmrPos : 0.23918, -0.280357, 0.401022, 1.61716, -0.681406, 0.57617
+RobotArmTorque : -0.0169189, 0.165966, 0.00241698, -0.0104736, 0.00644528, 0.0628415, 0.00644528
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Saved Data in ID 68
+HumanHandPos : 0.239584, -0.31, 0.401127
+Gradinet : -2.43783e-05, 1.02572, 5.49078e-05
+RobotHandPos : 474, 310
+RobotHandCurrnet : 30, 48
+RobotAmrPos : 0.239273, -0.26293, 0.401345, 1.61692, -0.681648, 0.575953
+RobotArmTorque : 0.0040283, 0.149853, -0.00886226, 0.00322264, -0.0136962, 0.00483396, -0.00483396
+TactileData : 0, 0, 0, 0, 0, 0, 0, 0
+
+Sa
